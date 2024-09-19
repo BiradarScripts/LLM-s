@@ -10,3 +10,4 @@ wikipedia
 langchain-text-splitters
 lxml
 langchain_google_genai
+streamlit
